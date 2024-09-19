@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="P[agina Simples de Receita" src="./images/desktop-design.jpg" width="100%">
+  <img alt="Página Simples de Receita" src="./images/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é um projeto de estudo que utilizei para praticar conceitos básicos de HTML e CSS. O QR Code Component é um desafio disponibilizado pelo site [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+Este é um projeto de estudo que utilizei para praticar conceitos básicos de HTML e CSS. O Recipe Page é um desafio disponibilizado pelo site [Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm/hub).
 
 - [Acesse o projeto finalizado, online](https://qr-code-simples-sepia.vercel.app/)
 
