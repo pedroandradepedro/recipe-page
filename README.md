@@ -1,4 +1,4 @@
-<h1 align="center"> QR Code Component </h1>
+<h1 align="center"> Página Simples de Receita </h1>
 
 <br>
 
@@ -17,7 +17,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um projeto de estudo que utilizei para praticar conceitos básicos de HTML e CSS. O Recipe Page é um desafio disponibilizado pelo site [Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm/hub).
 
-- [Acesse o projeto finalizado, online](https://qr-code-simples-sepia.vercel.app/)
+Nele foi adicionado também o responsivo utilizando o Media Queries.
+
+- [Acesse o projeto finalizado, online](https://recipe-page-bay-pi.vercel.app/)
 
 ---
 
